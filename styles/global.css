@@ -10,10 +10,12 @@ body {
 
 * {
     box-sizing: border-box;
+    background: black;
+    color: white;
 }
 
 a {
-    color: #0070f3;
+    color: #33FF00;
     text-decoration: none;
 }
 
