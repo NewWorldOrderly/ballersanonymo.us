@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
           <title>{siteTitle}</title>
         </Head>
         <section className={utilStyles.headingMd}>
-          <p>Web development company focused on the creation of kickass sites.</p>
+          <p>Digital development company engaged in the creation of exquisite web properties for modern tastes.</p>
         </section>
           <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
               <h2 className={utilStyles.headingLg}>Blog</h2>
